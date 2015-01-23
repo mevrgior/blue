@@ -1,1 +1,1 @@
-# blue app
+# blue app max_branch
